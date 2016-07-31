@@ -18,7 +18,7 @@ code repository
 - Binary Tree
 - Binary Search Tree
   - [Search and Insert in BST] (https://github.com/rohan-singh/archive/blob/master/bst.c).
-  - [Size of BST] (https://github.com/rohan-singh/archive/blob/master/findSize.c).
+  - [Size of BST] (https://github.com/rohan-singh/archive/blob/master/findSize).
 - AVL Tree
 - Red Black Tree
 - B Tree
