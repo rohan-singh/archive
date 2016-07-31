@@ -10,7 +10,7 @@ code repository
 - Circular Linked List
 
 ######String
-- [Reverse a string using recursion] (https://github.com/rohan-singh/Data-Structures/blob/master/reverseString.c)
+- [Reverse a string using recursion] (https://github.com/rohan-singh/archive/blob/master/reverseString.c)
 
 ######Stack
 ######Queue
