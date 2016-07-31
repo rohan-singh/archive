@@ -17,6 +17,7 @@ code repository
 ######Tree
 - Binary Tree
 - Binary Search Tree
+  - [Search and Insert in BST] (https://github.com/rohan-singh/archive/blob/master/bst.c).
 - AVL Tree
 - Red Black Tree
 - B Tree
