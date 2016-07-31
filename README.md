@@ -25,7 +25,7 @@ code repository
 - Suffix Tree
 - K Dimensional Tree
 
-######Matrix
 ######Heaps
 ######Hash table
 ######Graphs
+######Matrix
