@@ -4,9 +4,9 @@ code repository
 ######Array
 ######Linked List
 - Singly Linked List
-  - [Array List] (https://github.com/rohan-singh/Data-Structures/blob/master/arrayList.cpp).
-  - [Linked List] (https://github.com/rohan-singh/Data-Structures/blob/master/linkedList.cpp).
+  - [Create list] (https://github.com/rohan-singh/archive/blob/master/singleList.c).
 - Doubly Linked List
+  - [Create list] (https://github.com/rohan-singh/archive/blob/master/doubleList.c).
 - Circular Linked List
 
 ######String
