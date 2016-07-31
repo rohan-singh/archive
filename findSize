@@ -1,0 +1,10 @@
+//function to find the size of a tree
+
+int findSize(tnode* s)
+{
+    if (s == NULL)
+        return 0;
+    else
+        return (findSize(s->left) + 1 + findSize(s->right));
+    
+}
