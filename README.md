@@ -11,6 +11,7 @@ code repository
 
 ######String
 - [Reverse a string using recursion] (https://github.com/rohan-singh/archive/blob/master/reverseString.c)
+- [Remove all duplicates from a string] (https://github.com/rohan-singh/archive/blob/master/dupli.c)
 
 ######Stack
 ######Queue
