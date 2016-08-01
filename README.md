@@ -2,6 +2,7 @@
 code repository
 
 ######Array
+- [Reverse array contents] (https://github.com/rohan-singh/archive/blob/master/arrRev.c)
 ######Linked List
 - Singly Linked List
   - [Create list] (https://github.com/rohan-singh/archive/blob/master/singleList.c).
@@ -12,7 +13,7 @@ code repository
 ######String
 - [Reverse a string using recursion] (https://github.com/rohan-singh/archive/blob/master/reverseString.c)
 - [Remove all duplicates from a string] (https://github.com/rohan-singh/archive/blob/master/dupli.c)
-
+- [Check Palindrome] (https://github.com/rohan-singh/archive/blob/master/palin.c)
 ######Stack
 ######Queue
 ######Tree
