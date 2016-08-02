@@ -20,3 +20,5 @@ void toLower(char* ptr)
 		ptr++;
 	}
 }
+
+http://www.geeksforgeeks.org/lower-case-upper-case-interesting-fact/
