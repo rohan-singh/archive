@@ -16,6 +16,7 @@ code repository
 - [Remove all duplicates from a string] (https://github.com/rohan-singh/archive/blob/master/dupli.c)
 - [Check Palindrome] (https://github.com/rohan-singh/archive/blob/master/palin.c)
 - [Convert a string to Lowercase] (https://github.com/rohan-singh/archive/blob/master/toLower.c)
+- [Convert a string to Uppercase] (https://github.com/rohan-singh/archive/blob/master/toUpper.c)
 
 ######Stack
 ######Queue
