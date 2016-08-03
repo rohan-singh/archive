@@ -18,6 +18,7 @@ code repository
 - [Check Palindrome] (https://github.com/rohan-singh/archive/blob/master/palin.c)
 - [Convert a string to Lowercase] (https://github.com/rohan-singh/archive/blob/master/toLower.c)
 - [Convert a string to Uppercase] (https://github.com/rohan-singh/archive/blob/master/toUpper.c)
+- [Run length encoding] (https://github.com/rohan-singh/archive/blob/master/runLen.c)
 
 ######Stack
 ######Queue
