@@ -39,3 +39,20 @@ code repository
 ######Hash table
 ######Graphs
 ######Matrix
+######Searching
+- Linear Search
+- Binary Search
+
+######Sorting
+- Bubble Sort
+- Insertion Sort
+- Selection Sort
+- Merge Sort
+- Quick Sort
+- BST Sort
+- AVL Sort
+- Heap Sort
+- Topological Sort
+- Counting Sort
+- Radix Sort
+- Bucket Sort
