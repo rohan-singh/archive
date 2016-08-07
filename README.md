@@ -45,7 +45,7 @@ code repository
 
 ######Sorting
 - Bubble Sort
-- [Insertion Sort] (https://github.com/rohan-singh/archive/blob/master/arrRev.c)
+- [Insertion Sort] (https://github.com/rohan-singh/archive/blob/master/insertionSort.c)
 - Selection Sort
 - Merge Sort
 - Quick Sort
