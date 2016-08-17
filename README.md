@@ -40,7 +40,7 @@ code repository
 ######Graphs
 ######Matrix
 ######Searching
-- Linear Search
+- [Linear Search] (https://github.com/rohan-singh/archive/blob/master/linearSearch.c)
 - [Binary Search] (https://github.com/rohan-singh/archive/blob/master/binarySearch.c)
 
 ######Sorting
