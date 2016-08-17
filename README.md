@@ -41,7 +41,7 @@ code repository
 ######Matrix
 ######Searching
 - Linear Search
-- Binary Search
+- [Binary Search] (https://github.com/rohan-singh/archive/blob/master/binarySearch.c)
 
 ######Sorting
 - Bubble Sort
