@@ -47,3 +47,5 @@ int gcd_sub(int a, int b)
     }
     return a;
 }
+
+https://en.wikipedia.org/wiki/Euclidean_algorithm
