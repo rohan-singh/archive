@@ -1,32 +1,32 @@
 # archive
 code repository
 
-######Array
-- [Reverse array contents] (https://github.com/rohan-singh/archive/blob/master/arrRev.c)
+###### Array
+- [Reverse array contents](https://github.com/rohan-singh/archive/blob/master/arrRev.c)
 
-######Linked List
+###### Linked List
 - Singly Linked List
-  - [Create list] (https://github.com/rohan-singh/archive/blob/master/singleList.c).
+  - [Create list](https://github.com/rohan-singh/archive/blob/master/singleList.c).
 - Doubly Linked List
-  - [Create list] (https://github.com/rohan-singh/archive/blob/master/doubleList.c).
+  - [Create list](https://github.com/rohan-singh/archive/blob/master/doubleList.c).
 - Circular Linked List
 
-######String
-- [Length of a string] (https://github.com/rohan-singh/archive/blob/master/length.c)
-- [Reverse a string using recursion] (https://github.com/rohan-singh/archive/blob/master/reverseString.c)
-- [Remove all duplicates from a string] (https://github.com/rohan-singh/archive/blob/master/dupli.c)
-- [Check Palindrome] (https://github.com/rohan-singh/archive/blob/master/palin.c)
-- [Convert a string to Lowercase] (https://github.com/rohan-singh/archive/blob/master/toLower.c)
-- [Convert a string to Uppercase] (https://github.com/rohan-singh/archive/blob/master/toUpper.c)
-- [Run length encoding] (https://github.com/rohan-singh/archive/blob/master/runLen.c)
+###### String
+- [Length of a string](https://github.com/rohan-singh/archive/blob/master/length.c)
+- [Reverse a string using recursion](https://github.com/rohan-singh/archive/blob/master/reverseString.c)
+- [Remove all duplicates from a string](https://github.com/rohan-singh/archive/blob/master/dupli.c)
+- [Check Palindrome](https://github.com/rohan-singh/archive/blob/master/palin.c)
+- [Convert a string to Lowercase](https://github.com/rohan-singh/archive/blob/master/toLower.c)
+- [Convert a string to Uppercase](https://github.com/rohan-singh/archive/blob/master/toUpper.c)
+- [Run length encoding](https://github.com/rohan-singh/archive/blob/master/runLen.c)
 
-######Stack
-######Queue
-######Tree
+###### Stack
+###### Queue
+###### Tree
 - Binary Tree
 - Binary Search Tree
-  - [Search and Insert in BST] (https://github.com/rohan-singh/archive/blob/master/bst.c).
-  - [Size of BST] (https://github.com/rohan-singh/archive/blob/master/findSize).
+  - [Search and Insert in BST](https://github.com/rohan-singh/archive/blob/master/bst.c).
+  - [Size of BST](https://github.com/rohan-singh/archive/blob/master/findSize).
 - AVL Tree
 - Red Black Tree
 - B Tree
@@ -35,20 +35,20 @@ code repository
 - Suffix Tree
 - K Dimensional Tree
 
-######Heaps
-######Hash table
-######Graphs
-######Matrix
-######Searching
-- [Linear Search] (https://github.com/rohan-singh/archive/blob/master/linearSearch.c)
-- [Binary Search] (https://github.com/rohan-singh/archive/blob/master/binarySearch.c)
+###### Heaps
+###### Hash table
+###### Graphs
+###### Matrix
+###### Searching
+- [Linear Search](https://github.com/rohan-singh/archive/blob/master/linearSearch.c)
+- [Binary Search](https://github.com/rohan-singh/archive/blob/master/binarySearch.c)
 
-######Sorting
+###### Sorting
 - Bubble Sort
-- [Insertion Sort] (https://github.com/rohan-singh/archive/blob/master/insertionSort.c)
+- [Insertion Sort](https://github.com/rohan-singh/archive/blob/master/insertionSort.c)
 - Selection Sort
-- [Merge Sort] (https://github.com/rohan-singh/archive/blob/master/mergeSort.c)
-- [Quick Sort] (https://github.com/rohan-singh/archive/blob/master/quickSort.c)
+- [Merge Sort](https://github.com/rohan-singh/archive/blob/master/mergeSort.c)
+- [Quick Sort](https://github.com/rohan-singh/archive/blob/master/quickSort.c)
 - BST Sort
 - AVL Sort
 - Heap Sort
